@@ -21,12 +21,12 @@ code {
 
 @font-face {
   font-family: "Edensor";
-  src: url("/public/fonts/Edensor.otf") format("otf");
+  src: url("/public/fonts/Edensor.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Effra";
-  src: url("/public/fonts/Effra_Std_Rg.ttf") format("ttf");
+  src: url("/public/fonts/Effra.woff2") format("woff2");
 }
 
 /* Initial Setup */
