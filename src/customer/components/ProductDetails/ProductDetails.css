@@ -1,3 +1,7 @@
 .product-details{
     background-color: var(--text-color-light);
 }
+
+.add-to-cart{
+    background-color: var(--primary-color);
+}
