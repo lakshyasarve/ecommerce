@@ -1,7 +1,7 @@
 
 .home-slider{
 
-    background-image: url('/public/landing-background.png');
+    background-image: url('/public/images/landing-background.png');
     object-fit: contain;
     object-position: center;
 }
@@ -54,4 +54,27 @@ overflow: hidden;
   align-items: center;
 }
 
+.mobile-carousel{
+  display: none;
+}
 
+@media screen and (max-width: 768px) {
+  .container-why-kiah{
+    padding: 75px 0px;
+    border-radius: 10% 10% 0px 0px;
+  }
+}
+
+
+@media screen and (max-width: 425px) {
+  .container-why-kiah{
+    padding: 50px 0px;
+    border-radius: 10% 10% 0px 0px;
+  }
+  .desktop-carousel{
+    display: none;
+  }
+  .mobile-carousel{
+    display: block;
+  }
+}

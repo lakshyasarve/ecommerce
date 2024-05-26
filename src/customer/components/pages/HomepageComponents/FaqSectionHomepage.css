@@ -13,3 +13,27 @@
     font-family: 'Effra', sans-serif;
     color: var(--primary-color);
 }
+
+@media screen and (max-width: 1150px) { 
+
+}
+
+@media screen and (max-width: 768px) {
+.quiz-section-homepage{
+    flex-direction: column;
+}
+.faq-image{
+    padding-top: 30px;
+    width: 60%;
+}
+.faq-heading{
+    padding-top: 30px;
+}
+}
+
+
+@media screen and (max-width: 425px) {
+    .faq-image{
+        width: 80%;
+    }
+}

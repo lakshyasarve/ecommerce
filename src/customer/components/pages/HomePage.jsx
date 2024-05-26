@@ -1,6 +1,6 @@
 // import React from 'react'
-import MainCarousel from '../HomeCarousel/MainCarousel'
-import HomeSectionCarousel from '../HomeSectionCarousel/HomeSectionCarousel'
+import MainCarousel from './HomepageComponents/HomeCarousel/MainCarousel'
+import HomeSectionCarousel from './HomepageComponents/HomeSectionCarousel/HomeSectionCarousel'
 // import mens_kurta from '../../../Data/mens_kurta'
 import './Homepage.css'
 import AboutSectionHomepage from './HomepageComponents/AboutSectionHomepage'
@@ -9,14 +9,19 @@ import NewsletterSectionHomepage from './HomepageComponents/NewsletterSectionHom
 import OurProducts from './HomepageComponents/OurProducts'
 import QuizSectionHomepage from './HomepageComponents/QuizSectionHomepage'
 import WhyKiah from './HomepageComponents/WhyKiah'
+import MobileCarousel from './HomepageComponents/HomeCarousel/MobileCarousel'
 
 const HomePage = () => {
   return (
     <>
     <div className='home-slider'>
     <div className='container'>
+      <div className="desktop-carousel">
       <MainCarousel ></MainCarousel>
-      
+      </div>
+      <div className="mobile-carousel">
+      <MobileCarousel></MobileCarousel>
+      </div>
       {/* <div>
         <HomeSectionCarousel></HomeSectionCarousel>
       </div>   */}

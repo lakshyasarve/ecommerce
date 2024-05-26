@@ -10,6 +10,9 @@ import Order from '../customer/components/Order/Order'
 import OrderDetails from '../customer/components/Order/OrderDetails'
 import Checkout from '../customer/components/Checkout/Checkout'
 import ProductLive from '../customer/components/Product/ProductLive'
+import Privacy from '../customer/components/pages/PrivacyPolicy'
+import TermsConditions from '../customer/components/pages/TermsConditions'
+import ShippingReturns from '../customer/components/pages/ShippingReturns'
 
 const CustomerRouters = () => {
   return (
@@ -25,6 +28,9 @@ const CustomerRouters = () => {
         <Route path='/checkout' element={<Checkout/>}></Route> 
         <Route path='/account/order' element={<Order/>}></Route> 
         <Route path='/account/orderdetails' element={<OrderDetails/>}></Route> 
+        <Route path='/pages/privacy-policy' element={<Privacy/>}></Route>
+        <Route path='/pages/terms-conditions' element={<TermsConditions/>}></Route>
+        <Route path='/pages/shipping-returns' element={<ShippingReturns/>}></Route>
 
 
       </Routes>

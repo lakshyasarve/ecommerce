@@ -3,6 +3,8 @@ import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import BusinessIcon from '@mui/icons-material/Business';
+import { Link } from 'react-router-dom';
 
 import './Footer.css'
 
@@ -13,18 +15,23 @@ const Footer = () => {
         <div className='container '>
         <section className="footer-content flex">
           <div className='footer-headline'>
-            <img src="/Kiah_Hygiene_logo_footer.png" className='footer-logo' alt="" />
+            <img src="/images/Kiah_Hygiene_logo_footer.png" className='footer-logo' alt="" />
             <h5 className='logo-text'>It's easy to get in touch with us </h5>
             <div className=" flex">
               <EmailIcon className='footer-icon'></EmailIcon>
-              <p>info@kiahhygiene.com</p>
+              <p>support@shopkiah.in</p>
             </div>
+      
             <div className=" flex">
               <LocalPhoneIcon className='footer-icon'></LocalPhoneIcon>
-              <p>+12 34 56 78 90</p>
+              <p>+91 91090 44644</p>
+            </div>
+            <div className=" flex">
+              <BusinessIcon className='footer-icon'></BusinessIcon>
+              <p>Sefora Health and Hygiene Pvt Ltd,<br/> 74,Pratap Vihar colony, Jhotwara, Jaipur,  Rajasthan.</p>
             </div>
             <div className="footer-social-media-icon">
-            <FacebookIcon fontSize='large'></FacebookIcon>
+            <FacebookIcon fontSize='large'/>
             <InstagramIcon fontSize='large'/>
             <LinkedInIcon fontSize='large'/>
             </div>
@@ -33,17 +40,17 @@ const Footer = () => {
          
               <nav>
                 <ul className='nav-links-footer'>
-                  <li>Documentation</li>
-                  <li>Quick Start</li>
-                  <li>Community</li>
+                  <li>About Sefora</li>
+                  <li>Our Products</li>
+                  <li>Knowledge Center</li>
                 </ul>
               </nav>
     
               <nav>
                 <ul className='nav-links-footer'>
-                  <li>Privacy Policy</li>
-                  <li>Terms & Condition</li>
-                  <li>Faq</li>
+                <Link to='/pages/privacy-policy'><li>Privacy Policy</li></Link>
+                <Link to='/pages/terms-conditions'> <li>Terms & Condition</li></Link>
+                <Link to='/pages/shipping-returns'><li>Shpping & Returns</li></Link>
                 </ul>
               </nav>
         
@@ -53,7 +60,7 @@ const Footer = () => {
             </p>
         </section>
         <section className="copyright flex">
-          <p>@2023 Kiah Hygiene</p>
+          <p>@2024 Kiah Hygiene</p>
           <p>All Rights reserved</p>
         </section>
         </div>

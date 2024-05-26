@@ -38,12 +38,13 @@ padding: 20px 0px ;
 
 
 .nav-menu{
-    width: 55%;
     gap: 50px;
 }
 
+
 .nav-menu img{
-    width: 20%;
+    padding-left: 20px;
+    width: 180px;
 }
 
 .nav-links-centered{
@@ -64,6 +65,14 @@ padding: 20px 0px ;
     gap: 30px;
 }
 
+.other-menu button:nth-child(1){
+    width: 100px;
+}
+
+.other-menu button:nth-child(2){
+    width: 175px;
+}
+
 .nav-icon{
     color: #939fa4;
     cursor: pointer;
@@ -73,4 +82,52 @@ padding: 20px 0px ;
     font-family: 'Effra',  sans-serif;
     color: #939fa4;
     cursor: pointer;
+    padding-right: 20px;
 }
+
+.nav-mobile{
+    display: none;
+}
+
+@media screen and (max-width: 1150px) {
+    .top-discount-banner{
+        font-size: 15px;
+    }
+    .discount-bold{
+        font-size: 15px; 
+    }
+    .other-menu button{
+        display: none;
+    }
+    .nav-menu img{
+        width: 150px;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .nav-menu nav{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    .top-discount-banner{
+        font-size: 12px;
+    }
+    .discount-bold{
+        font-size: 12px; 
+    }
+    .nav-menu img{
+        width: 100px;
+    }
+    .cart-value{
+        padding-right: 0px;
+    }
+    .nav-mobile{
+        display: block;
+        padding-right: 20px;
+    }
+}
+

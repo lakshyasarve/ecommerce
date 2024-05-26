@@ -10,7 +10,7 @@ const FaqSectionHomepage = () => {
         <FaqComponent></FaqComponent>
       </div>
       <div className="split-container-child-2">
-        <img className='faq-image' src="/images/homepage-faq-image.png" alt="" />
+        <img className='faq-image' src="/images/homepage_images/homepage-faq-image.png" alt="" />
       </div>
     </div>
   )

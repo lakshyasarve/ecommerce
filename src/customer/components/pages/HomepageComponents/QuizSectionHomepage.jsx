@@ -4,9 +4,9 @@ import './QuizSectionHomepage.css'
 
 const QuizSectionHomepage = () => {
   return (
-    <div className='flex container'>
+    <div className='container quiz-container-section'>
       <div className="quiz-container-1">
-        <img src="/images/homepage-quiz-image.png" alt="" />
+        <img src="/images/homepage_images/homepage-quiz-image.png" alt="" />
       </div>
       <div className="quiz-container-2">
         <p className='quiz-homepage-heading'>Still not sure?</p>

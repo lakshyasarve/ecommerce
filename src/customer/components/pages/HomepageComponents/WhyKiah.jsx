@@ -12,29 +12,29 @@ const WhyKiah = () => {
       <section className='flex features-section'>
         <div className='single-feature'>
             <div className="flex feature-heading">
-                <img src="/images/home-features/home-feature-1.png" alt="" />
+                <img src="/images/homepage_images/home-features/home-feature-1.png" alt="" />
                 <p>Ultra Thin</p>
             </div>
             <div className="feature-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </p>
+                <p>Our adult diapers are designed with an ultra-thin profile, ensuring discreetness without compromising on absorbency or performance. This feature allows for a sleek, comfortable fit that feels natural and minimizes bulkiness, providing freedom of movement and confidence in any situation. </p>
             </div>
         </div>
         <div className='single-feature'>
             <div className="flex feature-heading">
-                <img src="/images/home-features/home-feature-2.png" alt="" />
+                <img src="/images/homepage_images/home-features/home-feature-2.png" alt="" />
                 <p>Breathable top sheet</p>
             </div>
             <div className="feature-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </p>
+                <p>The breathable top sheet of our diapers is engineered to promote air circulation, maintaining skin health and comfort. This feature reduces the risk of irritation, keeping you feeling fresh and dry throughout the day, even during extended wear. </p>
             </div>
         </div>
         <div className='single-feature'>
             <div className="flex feature-heading">
-                <img src="/images/home-features/home-feature-3.png" alt="" />
+                <img src="/images/homepage_images/home-features/home-feature-3.png" alt="" />
                 <p>Unscented</p>
             </div>
             <div className="feature-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </p>
+                <p>Kiah Hygiene's adult diapers are unscented, prioritizing the natural comfort and sensitivity of your skin. The absence of added fragrances ensures a gentle and non-intrusive experience, ideal for those with scent sensitivities or preferences for unscented products.</p>
             </div>
         </div>
       </section>

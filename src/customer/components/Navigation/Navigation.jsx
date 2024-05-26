@@ -3,6 +3,8 @@ import "./Navigaton.css";
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingBagOutlinedIcon from '@mui/icons-material/ShoppingBagOutlined';
 import { Link } from 'react-router-dom';
+import MenuIcon from '@mui/icons-material/Menu';
+import CloseIcon from '@mui/icons-material/Close';
 
 const Navigation = () => {
   return (
@@ -12,7 +14,7 @@ const Navigation = () => {
     </div>
     <section className='header-content container '>
       <div className='flex nav-menu'>
-      <img src="/Kiah_Hygiene_logo.png" className='kiah-nav-logo' alt="" />
+      <img src="/images/Kiah_Hygiene_logo.png" className='kiah-nav-logo' alt="" />
       <div className='nav-links-centered'>
       <nav>
           <ul className='flex hover-links nav-links'>  
@@ -41,7 +43,13 @@ const Navigation = () => {
         <ShoppingBagOutlinedIcon className='nav-icon'/>
         <p className='cart-value'>0</p>
         </div>
+
+        <div className="nav-mobile">
+          <MenuIcon></MenuIcon>
+          {/* <CloseIcon></CloseIcon> */}
+        </div>
       </div>
+
     </section>
     </>
   )

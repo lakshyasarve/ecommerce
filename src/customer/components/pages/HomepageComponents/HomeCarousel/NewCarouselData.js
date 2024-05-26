@@ -1,10 +1,10 @@
 export const NewCarouselData = [
     {
-        image: "/images/home-slider/slider-3.png",
+        image: "/images/homepage_images/home-slider/slider-4.png",
         path: "/women/clothing/lengha_choli"
     },
     {
-        image: "/images/home-slider/slider-2.png",
+        image: "/images/homepage_images/home-slider/slider-5.png",
         path: "/women/clothing/lengha_choli"
     },
     

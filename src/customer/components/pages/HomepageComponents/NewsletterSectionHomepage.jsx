@@ -6,8 +6,8 @@ const NewsletterSectionHomepage = () => {
   return (
     <div className='container newsletter-homepage'>
       <p className='newsletter-homepage-heading'>Join our Newsletter</p>
-      <p className='newsletter-homepage-description'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
-      <p className='newsletter-homepage-description'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
+      <p className='newsletter-homepage-description'>Sign up for our newsletter today and treat yourself to something special. You'll receive exclusive offers, discounts, and surprises reserved just for our subscribers. </p>
+
       
       <div className="newsletter-form">
       <form>
