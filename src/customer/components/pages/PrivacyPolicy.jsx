@@ -3,9 +3,18 @@ import './PrivacyPolicy.css'
 
 const Privacy = () => {
   return (
-    <div className='container'>
-      CULT GAIA PRIVACY POLICY
-Thank you for visiting the Cult Gaia website. We are committed to providing you a safe and personalized shopping experience. This commitment includes using your personal information to fulfill those goals and respecting
+    <div className='container policies'>
+      <div className="policies-nav">
+        <nav>
+          <ul>
+          <li>Privacy Policy</li>
+          <li>Terms And Conditions</li>
+          <li>Shipping And Returns</li>
+          </ul>
+        </nav>
+      </div>
+    <div className="policies-content"><h3>KIAH HYGIENE PRIVACY POLICY</h3>
+<h6>Thank you for visiting the Cult Gaia website. We are committed to providing you a safe and personalized shopping experience. This commitment includes using your personal information to fulfill those goals and respecting
 and protecting the privacy of your personal information.
 
 This Privacy Policy explains how Cult Gaia (collectively, "Cult Gaia," "we," "us," or "our") collects, shares and processes your personal information. It applies to personal information we collect on this website located at www.cultgaia.com (the “Site”), any other website, mobile device application, social media Internet property or related services owned or operated by Cult Gaia that includes a link to this policy, and any other written, electronic, and oral communications with us (collectively, the “Services”). This Privacy Policy also explains how we may use your personal information, your choices and rights you may have depending on the applicable law in your jurisdiction.
@@ -32,9 +41,10 @@ For further information on how we process your personal information, please use 
 14. ADDITIONAL NOTICE FOR CALIFORNIA RESIDENTS
 15. ADDITIONAL NOTICE TO INDIVIDUALS IN CANADA
 16. ADDITIONAL NOTICE TO INDIVIDUALS IN THE EEA, UK AND SWITZERLAND
-17. HOW TO CONTACT US
-1. PERSONAL INFORMATION WE COLLECT
-Cult Gaia may collect personal information when you use our Services, create an account with us or submit personal information when requested with the Site. Personal information generally is any information that relates to you, identifies you personally or could be used to identify you, such as your name, email address, phone number, address and payment account number. The definition of personal information varies by jurisdiction. Only the definition that applies to you based on your location applies to you under this Privacy Policy. Personal information does not include data that has been irreversibly anonymized or aggregated so that it can no longer enable us, whether in combination with other information or otherwise, to identify you.
+17. HOW TO CONTACT US</h6>
+<div className="policies-spacer"></div>
+<h5>1. PERSONAL INFORMATION WE COLLECT</h5>
+<h6>Cult Gaia may collect personal information when you use our Services, create an account with us or submit personal information when requested with the Site. Personal information generally is any information that relates to you, identifies you personally or could be used to identify you, such as your name, email address, phone number, address and payment account number. The definition of personal information varies by jurisdiction. Only the definition that applies to you based on your location applies to you under this Privacy Policy. Personal information does not include data that has been irreversibly anonymized or aggregated so that it can no longer enable us, whether in combination with other information or otherwise, to identify you.
 
 Cult Gaia may collect the following categories of personal information:
 
@@ -56,10 +66,10 @@ Cult Gaia may collect the following categories of personal information:
 
 We may also keep a record of your product interests and purchases online.  We collect the personal information described in this section only if you choose to share such information with Us. If you choose not to provide the personal information that we request, then we may not be able to respond to your or provide you with our Services, as permitted by law. 
 
-We may also combine the information we collect from providing our Services and across your devices and use different technologies to process your information for the purposes described above. For example, we may use automated systems that analyze your account status and payment information to detect the unsafe and unsecured payment. We also may use automated systems to assess security of your account and provide you suggestions on how to improve the security of your account.
-
-2. HOW WE COLLECT PERSONAL INFORMATION
-We collect personal information about you in two main ways: (1) when you directly and voluntarily provide the information to us; and (2) when it is automatically collected through cookies and other technologies.
+We may also combine the information we collect from providing our Services and across your devices and use different technologies to process your information for the purposes described above. For example, we may use automated systems that analyze your account status and payment information to detect the unsafe and unsecured payment. We also may use automated systems to assess security of your account and provide you suggestions on how to improve the security of your account.</h6>
+<div className="policies-spacer"></div>
+<h5>2. HOW WE COLLECT PERSONAL INFORMATION</h5>
+<h6>We collect personal information about you in two main ways: (1) when you directly and voluntarily provide the information to us; and (2) when it is automatically collected through cookies and other technologies.
 
 Directly From You
 
@@ -85,10 +95,10 @@ We also allow third-party companies (e.g., Google) to place tags on our digital 
 
 Social Media Widgets
 
-Our sites and mobile application(s) include social media features.  These features may collect information about you such as your IP address and which page you are visiting on our site. They may set a cookie or employ other tracking technologies to accomplish this. Social media features and widgets may be hosted by a third-party. Your interactions with those features are governed by the privacy policies of the companies that provide them.
-
-3. WHY WE COLLECT PERSONAL INFORMATION
-Information we collect is used for a variety of purposes, including activities such as: processing transactions, helping our customer care representatives resolve issues, identifying fraud and improving our services. In addition, information we collect improves your experience by delivering more personalized interactions and advertising. Also
+Our sites and mobile application(s) include social media features.  These features may collect information about you such as your IP address and which page you are visiting on our site. They may set a cookie or employ other tracking technologies to accomplish this. Social media features and widgets may be hosted by a third-party. Your interactions with those features are governed by the privacy policies of the companies that provide them.</h6>
+<div className="policies-spacer"></div>
+<h5>3. WHY WE COLLECT PERSONAL INFORMATION</h5>
+<h6>Information we collect is used for a variety of purposes, including activities such as: processing transactions, helping our customer care representatives resolve issues, identifying fraud and improving our services. In addition, information we collect improves your experience by delivering more personalized interactions and advertising. Also
 we use information we collect for reporting and analysis purposes. We examine metrics such as how you are shopping on our Site, the performance of our marketing efforts and your response to those marketing efforts.
 
 We will only use your personal information as described in this Privacy Policy or as disclosed to you prior to such processing taking place.
@@ -126,10 +136,10 @@ and regulatory requirements.
 k. For Internal Use. We use your personal information for the purposes of furthering our business, including improving our Site’s content and functionality by analyzing where, on which types of devices and how our Site is used, how many visitors we receive, and where they click through to the Site
 from. We also use it to remember you in case you re-visit our Site, so we will know if you have already been served with surveys, or (where Site content is undergoing testing) which version of the content you were served.
 
-l. With Your Consent. For any other purpose disclosed to you prior to you providing us your personal information or which is reasonably necessary to provide the Services or other related services requested, with your permission or upon your direction.
-
-4. INFORMATION WE SHARE
-Other than sharing your personal information so that you can use our Services, or as required or permitted by law, we do not share personal information about you with non-affiliated third parties. We may share information to third parties as disclosed in this Privacy Policy, but we do not, and will not sell your personal information to third parties for money. We disclose your personal information as described below.
+l. With Your Consent. For any other purpose disclosed to you prior to you providing us your personal information or which is reasonably necessary to provide the Services or other related services requested, with your permission or upon your direction.</h6>
+<div className="policies-spacer"></div>
+<h5>4. INFORMATION WE SHARE</h5>
+<h6>Other than sharing your personal information so that you can use our Services, or as required or permitted by law, we do not share personal information about you with non-affiliated third parties. We may share information to third parties as disclosed in this Privacy Policy, but we do not, and will not sell your personal information to third parties for money. We disclose your personal information as described below.
 
 a. Our Corporate Organization. We may share some or all of your personal information with our subsidiaries and corporate affiliates, joint ventures, or other companies under common control with us. If you would like us to stop providing your information to our affiliates for their own marketing purposes, you may opt-out by emailing us at privacy@cultgaia.com. Please note, the above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
@@ -153,28 +163,28 @@ to contact the co-branded partner directly.
 
 h. Vital Interests. We may disclose information to any party where we believe it is necessary.
 
-i. Consent. We may disclose your personal information for any purpose with your consent.
-
-5. SECURITY
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. If you provide us with your credit card information, the
+i. Consent. We may disclose your personal information for any purpose with your consent.</h6>
+<div className="policies-spacer"></div>
+<h5>5. SECURITY</h5>
+<h6>To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. If you provide us with your credit card information, the
 information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
 Please recognize that protecting
 your personal information is also your responsibility. We ask you to be responsible for safeguarding your password, secret questions and answers and other authentication information you use to access our Services. If you feel
-that the security of your account or personal data has been compromised, please immediately contact us. Please be aware that, despite our best efforts, no security system is impenetrable. In the event of a security breach, we will promptly notify you and the proper authorities if required by law.
-
-6. RETENTION
-We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your personal information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable
+that the security of your account or personal data has been compromised, please immediately contact us. Please be aware that, despite our best efforts, no security system is impenetrable. In the event of a security breach, we will promptly notify you and the proper authorities if required by law.</h6>
+<div className="policies-spacer"></div>
+<h5>6. RETENTION</h5>
+<h6>We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your personal information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable
 laws), resolve disputes and enforce our legal agreements and policies.
 
 If you send us correspondence, including emails, we retain such information electronically in the records of your account. We will also electronically retain customer service correspondence and other correspondence from Cult Gaia
 to you. We retain these records to measure and improve our customer service and to investigate potential fraud and violations. We may, over time, delete these records as permitted by law.
 
 We will also retain Site and Services usage data for internal analysis purposes. Usage data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Site,
-or we are legally obligated to retain this data for longer periods. We may also retain de-identified, aggregate Services usage data for internal analysis purposes.
-
-7. MANAGING COMMUNICATION PREFERENCES
-Marketing Communications
+or we are legally obligated to retain this data for longer periods. We may also retain de-identified, aggregate Services usage data for internal analysis purposes.</h6>
+<div className="policies-spacer"></div>
+<h5>7. MANAGING COMMUNICATION PREFERENCES</h5>
+<h6>Marketing Communications
 
 You can opt-out of receiving marketing communications from us. Direct marketing includes any communications to you that are only based on advertising or promoting our products and services. We will only contact you by electronic means based on our legitimate interests, as permitted by applicable law, or your consent.
 
@@ -189,10 +199,10 @@ Text Messages
 
 You may elect to receive text messages from us. When you sign up to receive text messages, we will send you information about our store, new products, promotional offers and other updates. These messages may use information automatically collected based on
 your actions while on our Site and may prompt messaging such as cart abandon messages (i.e., Cookies). To the extent you voluntarily opt to have text notifications sent directly to your mobile phone, we receive and store the information you provide, including your telephone number or when you read a text message. You may opt out of receiving text messages at any time by texting “STOP” to our text messages. To unsubscribe from SMS communications, follow the instructions in the message. For
-more information about text messages, see our Terms and Conditions.
-
-8. YOUR CHOICES
-Depending on applicable law where you reside or are located, you may be able to assert certain rights identified below with respect to your personal information. Please refer to the “What Rights Apply” section to determine the rights you have in your jurisdiction. If any of the rights listed below are not provided to you under the law that governs the processing of your personal information, we have absolute discretion in providing you with those rights. Depending upon the applicable law, access to your rights under the applicable law may be denied: (a) when denial of access is required or authorized by law; (b) when granting access would have a negative impact on another's privacy; (c) to protect our rights and properties; or (d) where the request is frivolous or vexatious, or for other reasons.
+more information about text messages, see our Terms and Conditions.</h6>
+<div className="policies-spacer"></div>
+<h5>8. YOUR CHOICES</h5>
+<h6>Depending on applicable law where you reside or are located, you may be able to assert certain rights identified below with respect to your personal information. Please refer to the “What Rights Apply” section to determine the rights you have in your jurisdiction. If any of the rights listed below are not provided to you under the law that governs the processing of your personal information, we have absolute discretion in providing you with those rights. Depending upon the applicable law, access to your rights under the applicable law may be denied: (a) when denial of access is required or authorized by law; (b) when granting access would have a negative impact on another's privacy; (c) to protect our rights and properties; or (d) where the request is frivolous or vexatious, or for other reasons.
 
 a. Right to Know/Access. You may have the right to obtain a copy, or a list of categories of the personal information that we hold about you, as well as other supplementary information, such as the purposes of processing, and the entities to whom we disclose your personal information.
 
@@ -252,20 +262,20 @@ identity, and for security or fraud-prevention purposes.
 Depending on your state of residence in the U.S., you may use an authorized agent to submit a rights request on their behalf. If you use an authorized agent to submit requests on your behalf, we will require you to directly verify your identity with us, or have you directly
 confirm with us that the authorized agent has been authorized to act on your behalf.
 
-Depending on your state of residence in the U.S., you may appeal our decision to your request regarding your personal data. To do so, please email us at hello@cultgaia.com. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.
-
-9. LOCATION TRACKING
-You may be able to adjust the settings of your device so that information about your physical location is not sent to us or third-parties by (a) disabling location services within the device settings; or (b) denying certain websites or mobile applications permission to access location information by changing the relevant preferences
-and permissions in your mobile device or browser settings. Please note that your location may be derived from your WiFi, Bluetooth, and other device settings. See your device settings for more information.
-
-10. CHILDREN
-Our Services are not directed to, and we do not knowingly collect personal information from, children under the age of 18. If you are under 18, please do not attempt to fill out our forms or send any personal data about yourself to us. If we become aware that a child under 18 has provided us with personal data, we will take steps to delete such information from our files. Cult Gaia does not have knowledge that it sells or shares the Personal Information of consumers under 16 years of age.
-
-11. THIRD PARTY WEBSITES
-Our Site may contain links to third-party sites. This Privacy Policy does not apply to those third-party sites. We recommend that you read the privacy notice or privacy policy of any other sites that you visit as we are not responsible for the privacy practices of those sites.
-
-12. TRANSMISSION OF INFORMATION TO OTHER COUNTRIES
-Cult Gaia is located in the United States and our service providers may be located in the United States or other countries. When you access or use our Services, your personal information may be processed in the United States or any other country in which Cult Gaia, its affiliates, or service providers maintain facilities. Such countries or jurisdictions may have data protection laws that are less protective than the laws of the jurisdiction in which you reside.
+Depending on your state of residence in the U.S., you may appeal our decision to your request regarding your personal data. To do so, please email us at hello@cultgaia.com. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.</h6>
+<div className="policies-spacer"></div>
+<h5>9. LOCATION TRACKING</h5>
+<h6>You may be able to adjust the settings of your device so that information about your physical location is not sent to us or third-parties by (a) disabling location services within the device settings; or (b) denying certain websites or mobile applications permission to access location information by changing the relevant preferences
+and permissions in your mobile device or browser settings. Please note that your location may be derived from your WiFi, Bluetooth, and other device settings. See your device settings for more information.</h6>
+<div className="policies-spacer"></div>
+<h5>10. CHILDREN</h5>
+<h6>Our Services are not directed to, and we do not knowingly collect personal information from, children under the age of 18. If you are under 18, please do not attempt to fill out our forms or send any personal data about yourself to us. If we become aware that a child under 18 has provided us with personal data, we will take steps to delete such information from our files. Cult Gaia does not have knowledge that it sells or shares the Personal Information of consumers under 16 years of age.</h6>
+<div className="policies-spacer"></div>
+<h5>11. THIRD PARTY WEBSITES</h5>
+<h6>Our Site may contain links to third-party sites. This Privacy Policy does not apply to those third-party sites. We recommend that you read the privacy notice or privacy policy of any other sites that you visit as we are not responsible for the privacy practices of those sites.</h6>
+<div className="policies-spacer"></div>
+<h5>12. TRANSMISSION OF INFORMATION TO OTHER COUNTRIES</h5>
+<h6>Cult Gaia is located in the United States and our service providers may be located in the United States or other countries. When you access or use our Services, your personal information may be processed in the United States or any other country in which Cult Gaia, its affiliates, or service providers maintain facilities. Such countries or jurisdictions may have data protection laws that are less protective than the laws of the jurisdiction in which you reside.
 
 We will take all the steps reasonably necessary to ensure that your personal information is treated
 securely and in accordance with this Privacy Policy and no transfer of your personal information will take place to an organization or a country unless there are appropriate safeguards in place as required under the applicable data
@@ -274,21 +284,21 @@ processed or maintained outside of the country or jurisdiction where you are loc
 
 To the extent we transfer any EEA,
 United Kingdom or Swiss personal information to another business, we transfer such data subject to appropriate safeguards as permitted under the data protection laws, including: (i) through
-the use of standard contractual clauses approved by an appropriate regulatory authority, such as the European Commission or the U.K. Information Commissioner’s Office; (ii) an Article 49 derogations in specific situations; or (iii) any other compliant transfer mechanism. We may also rely on an adequacy decision of the appropriate regulatory authority confirming an adequate level of data protection in the jurisdiction of the party receiving the information.
-
-13. CHANGES TO THIS PRIVACY POLICY
-We may revise this privacy policy from time to time and will post the date it was last updated at the top of this Privacy Policy . We will provide additional notice to you if we make any changes that materially affect your privacy rights.
-
-14. NOTICE OF FINANCIAL INCENTIVE
-We offer our customers loyalty program (10% Off Program) that provides certain perks, such as rewards and special promotions. We may also provide other programs, such as sweepstakes, contests, newsletters, or other similar promotional campaigns (collectively, the “Programs”). When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number). Because
+the use of standard contractual clauses approved by an appropriate regulatory authority, such as the European Commission or the U.K. Information Commissioner’s Office; (ii) an Article 49 derogations in specific situations; or (iii) any other compliant transfer mechanism. We may also rely on an adequacy decision of the appropriate regulatory authority confirming an adequate level of data protection in the jurisdiction of the party receiving the information.</h6>
+<div className="policies-spacer"></div>
+<h5>13. CHANGES TO THIS PRIVACY POLICY</h5>
+<h6>We may revise this privacy policy from time to time and will post the date it was last updated at the top of this Privacy Policy . We will provide additional notice to you if we make any changes that materially affect your privacy rights.</h6>
+<div className="policies-spacer"></div>
+<h5>14. NOTICE OF FINANCIAL INCENTIVE</h5>
+<h6>We offer our customers loyalty program (10% Off Program) that provides certain perks, such as rewards and special promotions. We may also provide other programs, such as sweepstakes, contests, newsletters, or other similar promotional campaigns (collectively, the “Programs”). When you sign up for one of our Programs, we will ask you to provide your name and contact information (such as email address and/or telephone number). Because
 our Programs involve the collection of personal information, they might be interpreted as a “financial incentive” program under California law. The value of your personal information to us is related to the value of the free or discounted products or services, or other benefits that you obtain or that are
 provided as part of the Program.
 
 You may withdraw from participating in a Program at any
-time by contacting us using the designated method set forth in the applicable Program terms. To learn more, please check out the Terms and Conditions for more information.
-
-15. ADDITIONAL NOTICE FOR CALIFORNIA RESIDENTS
-This section applies only to California residents. Pursuant to the California Consumer Privacy Act of 2018, as amended (“CCPA”), below is a summary for the last twelve (12) months of the personal information categories, as defined by California Civil Code section 1798.140 (o), that we collect, the reason we collect the personal information, where we obtain the personal information, and
+time by contacting us using the designated method set forth in the applicable Program terms. To learn more, please check out the Terms and Conditions for more information.</h6>
+<div className="policies-spacer"></div>
+<h5>15. ADDITIONAL NOTICE FOR CALIFORNIA RESIDENTS</h5>
+<h6>This section applies only to California residents. Pursuant to the California Consumer Privacy Act of 2018, as amended (“CCPA”), below is a summary for the last twelve (12) months of the personal information categories, as defined by California Civil Code section 1798.140 (o), that we collect, the reason we collect the personal information, where we obtain the personal information, and
 the third parties that we may share the personal information.
 
 Categories of Personal Information
@@ -316,12 +326,12 @@ We disclose the following categories of personal information for business or com
 
 - We disclose Inferences with businesses and service providers who help administer marketing and personalization.
 
-Do Not Track Signals. Currently, we do not monitor or take any action with respect to Do Not Track signals or other mechanisms, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
-
-16. ADDITIONAL NOTICE TO INDIVIDUALS IN CANADA
-This Section provides additional information to individuals located in Canada at the time their personal information is collected by Cult Gaia. You may request details about our privacy practices, access or correct your personal information, or make a complaint by us by sending an email to privacy@cultgaia.com.  If you are not satisfied with our response to your inquiry, you may contact the Office of the Privacy Commissioner of Canada: 1-800-282-1376 (toll-free) or at priv.gc.ca.
-
-17. ADDITIONAL NOTICE TO INDIVIDUALS IN THE EEA, UK AND SWITZERLAND
+Do Not Track Signals. Currently, we do not monitor or take any action with respect to Do Not Track signals or other mechanisms, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.</h6>
+<div className="policies-spacer"></div>
+<h5>16. ADDITIONAL NOTICE TO INDIVIDUALS IN CANADA</h5>
+<h6>This Section provides additional information to individuals located in Canada at the time their personal information is collected by Cult Gaia. You may request details about our privacy practices, access or correct your personal information, or make a complaint by us by sending an email to privacy@cultgaia.com.  If you are not satisfied with our response to your inquiry, you may contact the Office of the Privacy Commissioner of Canada: 1-800-282-1376 (toll-free) or at priv.gc.ca.</h6>
+<div className="policies-spacer"></div>
+<h6>17. ADDITIONAL NOTICE TO INDIVIDUALS IN THE EEA, UK AND SWITZERLAND
 This section only applies to accessing our Service while located in the European Economic Area, the United Kingdom, or Switzerland (collectively, the “European Countries”) at the time personal information collection. Pursuant to the General Data Protection Regulation (GDPR), personal information is referred to as personal data. All capitalized terms in this Section have the meaning as defined in the General Data Protection Regulation (GDPR) and/or, as applicable, the Swiss Data Protection Act (including, but not limited to “Personal Data”, “Processing”, “Controller”, “Processor”, “Data Subject”, “Consent”).
 
 We may ask you to identify which country you are located in when you use or access some of the Services, or we may rely on your IP address to identify the country that you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individual that masks or otherwise hides their location information from us so as not to appear located in European Countries. If any terms in this section conflict with other terms contained in this Notice, the terms in this section shall apply to individuals in a European Country.
@@ -370,10 +380,11 @@ We will only contact you if you are located in a European Country by electronic 
 
 International Transfers
 
-We may share your Personal Data with other businesses (including our group members, service providers or business partners, as described in this Notice), located in the European Countries, in the United States and/or otherwise in countries outside the European Countries which do not provide for an adequate level of data protection from an EU or Swiss law perspective. For such transfers, we will ensure that the recipients are subject to appropriate safeguards as permitted under the applicable data protection laws, e.g. by entering into appropriate data transfer agreements on the basis of EU standard contractual clauses issued by the Commission, or by reliance upon the Article 49 GDPR derogations or corresponding derogations under the Swiss Data Protection Act, as applicable.
-
-18. HOW TO CONTACT US
-If you have any questions or comments related to this Privacy Policy, contact our Privacy Compliance Officer at hello@cultgaia.com or contact by mail at: Cult Gaia,  Re: Privacy Compliance Officer, 8111 Beverly Boulevard, Los Angeles, CA 90048.
+We may share your Personal Data with other businesses (including our group members, service providers or business partners, as described in this Notice), located in the European Countries, in the United States and/or otherwise in countries outside the European Countries which do not provide for an adequate level of data protection from an EU or Swiss law perspective. For such transfers, we will ensure that the recipients are subject to appropriate safeguards as permitted under the applicable data protection laws, e.g. by entering into appropriate data transfer agreements on the basis of EU standard contractual clauses issued by the Commission, or by reliance upon the Article 49 GDPR derogations or corresponding derogations under the Swiss Data Protection Act, as applicable.</h6>
+<div className="policies-spacer"></div>
+<h5>18. HOW TO CONTACT US</h5>
+<h6>If you have any questions or comments related to this Privacy Policy, contact our Privacy Compliance Officer at hello@cultgaia.com or contact by mail at: Cult Gaia,  Re: Privacy Compliance Officer, 8111 Beverly Boulevard, Los Angeles, CA 90048.</h6>
+</div>
     </div>
   )
 }
