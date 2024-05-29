@@ -13,6 +13,8 @@ import ProductLive from '../customer/components/Product/ProductLive'
 import Privacy from '../customer/components/pages/PrivacyPolicy'
 import TermsConditions from '../customer/components/pages/TermsConditions'
 import ShippingReturns from '../customer/components/pages/ShippingReturns'
+import About from '../customer/components/pages/About'
+import Contact from '../customer/components/pages/Contact'
 
 const CustomerRouters = () => {
   return (
@@ -22,6 +24,8 @@ const CustomerRouters = () => {
       </div>
       <Routes>
         <Route path='/' element={<Homepage/>}></Route>
+        <Route path='/about-us' element={<About/>}></Route>
+        <Route path='/contact' element={<Contact/>}></Route>
         <Route path='/cart' element={<Cart/>}></Route>
         <Route path='/product' element={<ProductLive/>}></Route>
         <Route path='/product/productdetails' element={<ProductDetails/>}></Route>

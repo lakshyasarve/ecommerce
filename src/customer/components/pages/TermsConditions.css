@@ -1,0 +1,49 @@
+.policies{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    margin-bottom: 100px;
+}
+.policies-nav ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.policies-nav li{
+    margin-top: 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.policies-nav{
+width: 30%;
+}
+
+.policies-spacer{
+    width: 100%;
+    border: 1px solid #cdb0a1c1;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.policies-content{
+width: 70%;
+}
+
+.policies-content h3{
+    color: var(--primary-color);
+    font-family: 'Edensor', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.policies-content h5{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.policies-content h6{
+    font-size: 1rem;
+}

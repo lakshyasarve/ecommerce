@@ -40,7 +40,7 @@ const Footer = () => {
          
               <nav>
                 <ul className='nav-links-footer'>
-                  <li>About Sefora</li>
+                <Link to='/about-us'><li>About Sefora</li></Link>
                   <li>Our Products</li>
                   <li>Knowledge Center</li>
                 </ul>

@@ -1,5 +1,6 @@
 import React from 'react'
 import './PrivacyPolicy.css'
+import { Link } from 'react-router-dom';
 
 const Privacy = () => {
   return (
@@ -7,13 +8,14 @@ const Privacy = () => {
       <div className="policies-nav">
         <nav>
           <ul>
-          <li>Privacy Policy</li>
-          <li>Terms And Conditions</li>
-          <li>Shipping And Returns</li>
+          <Link to='/pages/privacy-policy'><li>Privacy Policy</li></Link>
+                <Link to='/pages/terms-conditions'> <li>Terms & Condition</li></Link>
+                <Link to='/pages/shipping-returns'><li>Shpping & Returns</li></Link>
           </ul>
         </nav>
       </div>
-    <div className="policies-content"><h3>KIAH HYGIENE PRIVACY POLICY</h3>
+    <div className="policies-content">
+      <h3>KIAH HYGIENE PRIVACY POLICY</h3>
 <h6>Thank you for visiting the Cult Gaia website. We are committed to providing you a safe and personalized shopping experience. This commitment includes using your personal information to fulfill those goals and respecting
 and protecting the privacy of your personal information.
 
@@ -331,8 +333,8 @@ Do Not Track Signals. Currently, we do not monitor or take any action with respe
 <h5>16. ADDITIONAL NOTICE TO INDIVIDUALS IN CANADA</h5>
 <h6>This Section provides additional information to individuals located in Canada at the time their personal information is collected by Cult Gaia. You may request details about our privacy practices, access or correct your personal information, or make a complaint by us by sending an email to privacy@cultgaia.com.  If you are not satisfied with our response to your inquiry, you may contact the Office of the Privacy Commissioner of Canada: 1-800-282-1376 (toll-free) or at priv.gc.ca.</h6>
 <div className="policies-spacer"></div>
-<h6>17. ADDITIONAL NOTICE TO INDIVIDUALS IN THE EEA, UK AND SWITZERLAND
-This section only applies to accessing our Service while located in the European Economic Area, the United Kingdom, or Switzerland (collectively, the “European Countries”) at the time personal information collection. Pursuant to the General Data Protection Regulation (GDPR), personal information is referred to as personal data. All capitalized terms in this Section have the meaning as defined in the General Data Protection Regulation (GDPR) and/or, as applicable, the Swiss Data Protection Act (including, but not limited to “Personal Data”, “Processing”, “Controller”, “Processor”, “Data Subject”, “Consent”).
+<h5>17. ADDITIONAL NOTICE TO INDIVIDUALS IN THE EEA, UK AND SWITZERLAND</h5>
+<h6>This section only applies to accessing our Service while located in the European Economic Area, the United Kingdom, or Switzerland (collectively, the “European Countries”) at the time personal information collection. Pursuant to the General Data Protection Regulation (GDPR), personal information is referred to as personal data. All capitalized terms in this Section have the meaning as defined in the General Data Protection Regulation (GDPR) and/or, as applicable, the Swiss Data Protection Act (including, but not limited to “Personal Data”, “Processing”, “Controller”, “Processor”, “Data Subject”, “Consent”).
 
 We may ask you to identify which country you are located in when you use or access some of the Services, or we may rely on your IP address to identify the country that you are located in. When we rely on your IP address, we cannot apply the terms of this section to any individual that masks or otherwise hides their location information from us so as not to appear located in European Countries. If any terms in this section conflict with other terms contained in this Notice, the terms in this section shall apply to individuals in a European Country.
 
