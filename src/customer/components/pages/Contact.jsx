@@ -12,11 +12,11 @@ const Contact = () => {
       <div className="split-container-child-2">
         <form action="" className='flex'>
             <label htmlFor="Name">Name</label>
-            <input id='Name' type="text" />
+            <input placeholder='Your Name' id='Name' type="text" />
             <label htmlFor="Email">Email</label>
-            <input id='Email' type="email" name="" />
+            <input placeholder='Your Email' id='Email' type="email" name="" />
             <label htmlFor="Message">Message</label>
-            <input id='Message' type="text" />
+            <input placeholder='Your Message' id='Message' type="text" />
             <button type="submit">Send Message</button>
         </form>
         </div>
